@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://mqolomba.github.io/mywebsite/sitemap.xml
